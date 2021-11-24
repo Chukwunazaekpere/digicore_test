@@ -63,3 +63,7 @@ the difference between x2 and x1
 The code conditions would be:
 if p = 1 and V1 - V2 !== x2 - x1 return NO
 
+========================================
+The repo is on master:
+https://github.com/Chukwunazaekpere/digicore_test.git
+https://github.com/Chukwunazaekpere/digicore_test/tree/master
