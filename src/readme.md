@@ -9,9 +9,10 @@ npm i -g ts-node
 2) install code runner, if you're on vs-code, go to market-place, search and install
 3) install typescript
 npm i -g typescript
-compile typscript codes with the command "tsc"
 
-run all codes with: ts-node <filename>
+4) compile typscript codes with the command "tsc"
+
+5) run all codes with: ts-node <filename>
 e.g ts-node q1
 =================================================================
 Logic
