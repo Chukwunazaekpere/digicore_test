@@ -15,7 +15,13 @@ run all codes with: ts-node <filename>
 e.g ts-node q1
 =================================================================
 Logic
----------------------------------------
+--------------------------------------------------
+Question 1:
+Logic: use of additive identity for operation
+--------------------------------------------------
+Question 2:
+Logic
+-------------------------------------------------
 Question 3: 
 Logic: If both kangaroos must be at the same point (location) at the same time,
 it then implies that the time taken for both kangaroos to cover that distance must be equal.
